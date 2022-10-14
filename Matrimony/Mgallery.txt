@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta data-name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link href='https://unpkg.com/boxicons@2.1.1/css/boxicons.min.css' rel='stylesheet'>
+    <title>Gallery</title> 
+</head>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    position: relative;
+    min-height: 100vh;
+    max-width: 1500px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 40px 20px;
+}
+
+.container .images .image-box{
+    position: relative;
+    height: 300px;
+    width: 300px;
+    border-radius: 6px;
+    overflow: hidden;
+}
+.images{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.images .image-box{
+    margin: 8px;
+}
+.images .image-box img{
+    height: 100%;
+    width: 100%;
+    border-radius: 6px;
+    transition: transform 0.2s linear;
+}
+.image-box:hover img{
+    transform: scale(1.05);
+}
+.image-box h6{
+    position: absolute;
+    bottom: 10px;
+    left: 10px;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+body
+{
+background-color:beige;
+}
+h1
+{ 
+Font-size:45px;
+color:blue;
+text-align:center;
+}
+</style>
+<body>
+    <div class="container">
+        <div class="search-box">
+            <h1>Angel's Matrimony <br> Gallery <h1>
+        </div>
+
+        <div class="images">
+
+<div class="image-box">
+<img src="https://img.freepik.com/free-photo/beautiful-couple-posing-their-wedding-day_1328-3508.jpg?w=2000">
+</div>
+
+<div class="image-box"">
+<img src="https://www.treephotovideo.net.au/wp-content/uploads/2019/11/Marnong-Estate-Wedding-Photography-KT-193.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://images.unsplash.com/photo-1631621583126-ed10a80f62b1?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8cHJlJTIwd2VkZGluZ3xlbnwwfHwwfHw%3D&w=1000&q=80">
+</div>
+
+<div class="image-box">
+<img src="https://www.dipakstudios.com/gallery/1586687107SAI_8747.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.cdn.newsbytesapp.com/images/l34120220225130436.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/736x/3b/4e/14/3b4e140dca04818fb4394efd8e563264.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/0c/e4/09/0ce409b457c128eb20bb1e244be69089.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/a2/13/b4/a213b4c26eace2995baf9b96f0b6818a.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://d28w5yx6jp7qan.cloudfront.net/TheSignaturePhotography-AkClicks-0064-2-826762754.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/3899/3_2/960/jpg/wedding-photographers-creative-clickes-photography-couple-shot-18_15_403899-164719241118344.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK8A7bGNwmW5oxEQVg0gPCKPxCKqKM8Dc2mpcFW1dB1Nr4BdBzbOU-aX1U8J5kYxAAhlY&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://static.india.com/wp-content/uploads/2019/04/Kerala-Couple.jpg?impolicy=Medium_Resize&w=1200&h=800">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/6e/51/ce/6e51ceec2fc56b0a89f6721782060a82.png">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/736x/c6/b0/f9/c6b0f9a3af0aa1def8a3423d4f88e9f7.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/aa/6f/c4/aa6fc47910a404f11653c8d162589570.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/30/87/d7/3087d722679c74992610ac1a1d688972.jpg">
+</div>
+
+<div class="image-box">
+<img src="http://www.thephototoday.in/wp-content/uploads/2018/08/Kowshik-kumar-Jayashree-1.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://productimages.withfloats.com/actual/59a7f4853eefbe0fc85e9545.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnZ26uFuQ-O_8pUwepld_fowXvU9GRKuBeHS3S1wUmBUZPOGABm0nAZjCXkKNTf5421JQ&usqp=CAU">
+</div>
+
+<div class="image-box">
+<img src="https://mysticstudios.in/wp-content/uploads/2017/09/Vijay-Prashipa-Wedding-16.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://mysticstudios.in/wp-content/uploads/2017/09/Vijay-Prashipa-Wedding-20.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://irichphotography.com/wp-content/uploads/2019/07/new-0000-2018-0001_4_2048x1368-1024x684.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://photopoets.in/wp-content/uploads/2021/05/PhotoPoets-Traditional-post-wedding-shoot.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/a1/4e/b5/a14eb55c2e583941088f94b4b14d0e80.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/0f/18/55/0f18559c66a1586168a531f23ce7bf44.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/bd/92/e3/bd92e353bfafbdc23b99a4a3bc33d27f.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://d3btuubl2bvm9d.cloudfront.net/images/2c9f848758ae39610158afcac206001c/1480418652188-web.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://d3btuubl2bvm9d.cloudfront.net/images/2c9f848758ae39610158afcac206001c/1480418652098-web.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://d3btuubl2bvm9d.cloudfront.net/images/2c9f84875a5a4604015a5bac02150020/1487596900580-web.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/2d/5e/aa/2d5eaafad7b70e468bc93d596ce2a66e.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/8917/3_2/960/jpeg/raj-photo-and-video-8_15_248917-1567142929.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/9097/3_2/960/jpg/49781680-1512284968903336-1553433948057501696-n_15_179097.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/6167/3_2/960/jpeg/3736acd9-57a6-409c-86be-7aeb4df1c31b_15_66167.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/8218/3_2/960/jpg/wedding-photography-royal-color-lab-studio-couple-shot-14_15_368218-162248068311766.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://www.thewedcafe.com/wp-content/uploads/2020/08/13.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://www.weddingsutra.com/images/diksha_rahul_12.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://www.shaadidukaan.com/vogue/wp-content/uploads/2019/11/Pre-Wedding-Shoot-Locations-In-Goa-2.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://static2.tripoto.com/media/filter/tst/img/615209/TripDocument/1551443455_asp_3768_edit_copy.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://s3-us-west-2.amazonaws.com/shaadiwishnewbucket/a9d33b47-41c5-4fb3-b458-976a69ebde55.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/1d/98/64/1d9864fa505e8dc70bb983b99e07b1d9.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://qph.fs.quoracdn.net/main-qimg-0f75ec14830b85b7b4f11e67590a94dc">
+</div>
+
+<div class="image-box">
+<img src="https://img1.exportersindia.com/product_images/bc-full/2019/3/6195191/pre-wedding-photoshoot-services-1551941656-4773517.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://1.bp.blogspot.com/-axgZP4Pp4F4/XSyn_fKU-eI/AAAAAAAAF2U/REIC85KQg1A-CXSmUXmky4OCJwahfVNzQCEwYBhgL/s1600/FB_IMG_1563207082832.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://www.weddingsutra.com/images/prewed_shoots_15.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i0.wp.com/shotmemories.com/wp-content/uploads/2020/03/IMG_6502.jpg?resize=1200%2C842&ssl=1">
+</div>
+
+<div class="image-box">
+<img src="https://cdn0.weddingwire.in/vendor/3359/3_2/1280/jpg/6l4a0311_15_193359-158537439229177.jpeg">
+</div>
+
+<div class="image-box">
+<img src="https://www.fabweddings.in/blog/wp-content/uploads/2021/07/20210720152927_0.jpg">
+</div>
+
+<div class="image-box">
+<img src="https://i.pinimg.com/originals/4a/08/f1/4a08f1302376c40c16853d409063b3ab.jpg">
+</div>
+
+</div>
+</div>
+</body>
+</html>
+

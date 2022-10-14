@@ -1,0 +1,85 @@
+<head>
+<title>Success</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<style>
+body
+{
+background-image:url("https://www.nigelunsworth.com.au/wp-content/uploads/2020/09/057-Southern-Highlands-Wedding-Photographer%28pp_w1600_h1064%29.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-position:cover;
+background-attachment:scroll;
+text-align:center;
+}
+input,button
+{
+height:25px;
+width:200px;
+font-style:italic;
+border-radius:10px;
+border:2px solid blue;
+background-color:transparent;
+}
+a
+{
+text-decoration:none;
+color:white;
+}
+button:hover
+{
+background-color:black;
+color:white;
+}
+p
+{
+color:white;
+font-weight:bold;
+}
+h1
+{
+color:white;
+font-size:45px;
+text-align:center;
+font-weight:bold;
+}
+h2
+{
+color:white;
+font-size:35px;
+text-align:center;
+}
+div.relative
+{
+position:relative;
+top:340px;
+bottom:200px;
+border:3px none;
+padding:2px 5px;
+border-radius:10px;
+text-align:center;
+font-size:25px;
+font-weight:bold;
+color:black;
+}
+</style>
+<body>
+
+<h1><br><br>
+Angel's Matrimony
+<br><br>
+</h1>
+
+<h2>
+Congratulations...<br>
+You have Successfully complete your <br>
+Registration & Login Process<br><br><br>
+Start your search...<br><br>
+
+</h2>
+<button input type="submit" value="male"><a href="Matrimony Male.html"><b>Groom</b></a></button>
+
+<button input type="submit" value="Female"><a href="Matrimony Female.html"><b>Bride</b></a></button><br>
+
+</body>
+</html>

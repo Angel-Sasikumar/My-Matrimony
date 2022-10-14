@@ -1,0 +1,346 @@
+<html>
+<head>
+     <meta charset="UTF-8">
+	 <meta http-equip="X-UA-Compatible" content="IE=edge">
+	 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	 <link rel="stylesheet" href="style.css">
+     <link href='https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;800&display=swap' rel="stylesheet">
+	 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+     <script src="https://kit.fontawesome.com/0885571a89.js" crossorigin="anonymous"></script>
+	 <title>My Matrimony Female</title>
+</head>	 
+<style>
+
+body
+{
+background-color:beige;
+}
+h1
+{ 
+Font-size:45px;
+color:blue;
+text-align:center;
+}
+h3
+{ 
+Font-size:20px;
+color:red;
+text-align:center;
+}
+p
+{ 
+Font-size:20px;
+text-align:Center;
+}
+#b
+{
+width:250px;
+height:400px;
+float:right;
+margin:20px;
+border:2px solid blue;
+border-radius:10px;
+}
+#b:hover
+{
+            background-color:gray;
+           font-size: 20px;
+           cursor:pointer;
+color:white;
+        }
+.button
+{
+  background-color:lightblue;
+  border: none;
+  color: white;
+  padding: 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 15px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+a
+{
+text-decoration: none;
+color:black;
+}
+.button1
+{
+  background-color:white; 
+  color:black; 
+  border:2px solid black;
+  border-radius:10px;
+}
+.button1:hover
+{
+  background-color:blue;
+  font-size:20px;
+  color:white;
+}
+</style>
+
+
+<body>
+
+<h1><br>Angel's Matrimony</h1>
+<br>
+
+<div id="b">
+<h3><img src="https://wallpapercave.com/wp/wp6592390.jpg"height="200",width="250"></h3>
+<p>Name:Angel<br>
+Age : 26<br>
+Qualification : B.Sc., B.Ed..<br><br></p>
+<h3>
+<button class="button button1" input type="submit"  value="interested"><a href="Angel.html">Interested</a>
+</button></h3>
+</div>
+
+<div id="b">
+<h3><img src="https://cutewallpaper.org/22/tamil-girls-wallpapers/1065025753.jpg"height="200",width="250"></h3>
+<p>Name:Devi<br>
+Age : 23<br>
+Qualification : M.sc<br><br></p>
+<h3>
+<button class="button button1" input type="submit"  value="interested"><a href="Devi.html">Interested</a>
+</button></h3>
+</div>
+
+<div id="b">
+<h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOoUi8kGppqV6VRoXAKbok4hyH8e3vu87qMw&usqp=CAU"height="200",width="250"></h3>
+<p>Name:Indhuja<br>
+Age : 28<br>
+Qualification : B.Tech IT<br><br></p>
+<h3>
+<button class="button button1" input type="submit"  value="interested"><a href="Indhuja.html">Interested</a>
+</button></h3>
+</div>
+
+<div id="b">
+<h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0yYUT4POpDufB9hU7EU_VNkAgqSi9pJfKLQ&usqp=CAU"height="200",width="250"></h3>
+<p>Name:Sangeetha<br>
+Age : 25<br>
+Qualification : BBA<br><br></p>
+<h3>
+<button class="button button1" input type="submit"  value="interested"><a href="Sangeetha.html">Interested</a>
+</button></h3>
+</div>
+
+<div id="b">
+<h3><img src="https://w0.peakpx.com/wallpaper/529/430/HD-wallpaper-anupama-parameswaran-kannada-malayalam-saree-tamil-telugu-tollywood.jpg"height="200",width="250"></h3>
+<p>Name:Anu<br>
+Age : 23<br>
+Qualification : BA History<br><br></p>
+<h3>
+<button class="button button1" input type="submit"  value="interested"><a href="Anu.html">Interested</a>
+</button></h3>
+</div>
+
+<div id="b">
+<h3><img src="https://i.pinimg.com/originals/75/4b/94/754b9436519b786fb59bb357ff7c1f6b.jpg"height="200",width="250"></h3>
+<p>Name: Kavitha<br>
+Age : 28<br>
+Qualification : M.Sc., B.Ed..<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+
+<div id="b">
+<h3><img src="https://swall.teahub.io/photos/small/300-3006586_beautiful-tamil-brahmin-girl.jpg"height="200",width="250"></h3>
+<p>Name: Pavithra<br>
+Age : 22<br>
+Qualification : BE<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+
+<div id="b">
+<p><h3><img src="https://i.pinimg.com/736x/af/24/0a/af240ad9d770f4d61d9a41829c0b41cb.jpg"height="200",width="250"></h3>
+<p>Name: Iniya<br>
+Age : 23<br>
+Qualification : BE<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+
+<div id="b">
+<h3><img src="https://wallpapercave.com/wp/wp5268367.jpg"height="200",width="250"></h3>
+<p>Name: Priya<br>
+Age : 22<br>
+Qualification : BE<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://cutewallpaper.org/23/facebook-local-girl-wallpaper/885029091.jpg"height="200",width="250"></h3>
+<p>Name: Nandhini<br>
+Age : 27<br>
+Qualification : +2<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://static.langimg.com/photo/91262389/91262389.jpg?v=3"height="200",width="250"></h3>
+<p>Name: Chandrika<br>
+Age : 27<br>
+Qualification : MA English<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://1.bp.blogspot.com/-8A2yHOCkEEE/YTNAX2IBx4I/AAAAAAAAMy8/Qq0-RGrs0To6WT8MuTMKJvEHXifVa5UcACLcBGAsYHQ/s1600/197f9bed6510344c6746a5c9fe8a27a8.jpg"height="200",width="250"></h3>
+<p>Name: Sri<br>
+Age : 28<br>
+Qualification : BA<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://i6.behindwoods.com/tamil-actress/sanjana-sarathy/thumbnails/related-section-image-hd-sanjana-sarathy.jpg"height="200",width="250"></h3>
+<p>Name: Stella<br>
+Age : 23<br>
+Qualification : BE<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://cdn.tamilglitz.in/wp-content/uploads/2017/03/14900455_553147864888973_9122974368241139737_n.jpg"height="200",width="250"></h3>
+<p>Name: Shivu<br>
+Age : 22<br>
+Qualification : B.Sc Chemistry<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://www.wallpaperuse.com/wallp/59-597166_m.jpg"height="200",width="250"></h3>
+<p>Name: Kavya<br>
+Age : 27<br>
+Qualification : MA<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmrtiBnpRVD6VzXVC9XeYWKpnVcXoE4rHA2A&usqp=CAU"height="200",width="250"></h3>
+<p>Name: Keerthi<br>
+Age : 27<br>
+Qualification : BA<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://cdn.sharechat.com/25dac2ec_1578549360023.jpeg"height="200",width="250"></h3>
+<p>Name: Laxmi<br>
+Age : 22<br>
+Qualification : BA Tamil<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://wallpapercave.com/wp/wp6046823.jpg"height="200",width="250"></h3>
+<p>Name: Neethu sri<br>
+Age : 27<br>
+Qualification : FD<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://w0.peakpx.com/wallpaper/251/596/HD-wallpaper-anandi-kayal-tamil-actress-saree-lover.jpg"height="200",width="250"></h3>
+<p>Name: Jeni<br>
+Age : 25<br>
+Qualification : MBA<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://southindianactress.in/wp-content/uploads/2020/08/actress-ayesha-7.jpg"height="200",width="250"></h3>
+<p>Name: Manisha<br>
+Age : 21<br>
+Qualification : BBA<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://www.vivaah.info/V/I/U/8/VIU8342_2009280851_l.jpg"height="200",width="250"></h3>
+<p>Name: Steffy<br>
+Age : 21<br>
+Qualification : +2<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="http://d22y893cekuu8h.cloudfront.net/em_2018-10-25-00-49-57-000341.jpg"height="200",width="250"></h3>
+<p>Name: Jeevi<br>
+Age : 22<br>
+Qualification : +2<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://placements.jspiders.com/sites/default/files/9182745100_0_0.jpg"height="200",width="250"></h3>
+<p>Name: Kanika sree<br>
+Age : 28<br>
+Qualification : M.Sc MAths<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://cdn.sharechat.com/450355a3-9bc4-40f2-8852-a0f64cc9bca6-4546b6b7-8fd9-407f-9047-40b47d86331c_1.jpeg"height="200",width="250"></h3>
+<p>Name: Naachi<br>
+Age : 24<br>
+Qualification : B.Sc<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+<div id="b">
+<h3><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSK-82fGJCCDp-hYEc13Sw8vq4D36-tvoO_mw&usqp=CAU"height="200",width="250"></h3>
+<p>Name: Saranya<br>
+Age : 21<br>
+Qualification : +2<br><br></p>
+<h3>
+<button class="button button1">Interested</a><br>
+</h3>
+</div>
+
+
+</body>
+</html>
